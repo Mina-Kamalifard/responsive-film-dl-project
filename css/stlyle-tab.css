@@ -1,0 +1,244 @@
+
+
+.container-second-line {
+  display: none;
+}
+.container {
+  padding: 0;
+  margin: 10px 10px 10px 10px;
+  width: 100%;
+}
+.logo {
+  margin: 10px 10px 10px 10px;
+}
+.search-in-site {
+  display: block;
+  width: 85vw;
+  margin-right:4vw ;
+  margin-left: 15vw;
+}
+.search-input {
+  width: 100%;
+}
+.menu-1 {
+  width: 90vw;
+  position: relative;
+  bottom: 160px;
+  margin: 20px;
+}
+.header-first-ul i {
+  font-size: larger;
+}
+.page-main{
+  margin-top: 100px;
+}
+#gone-1{
+  display: none !important;
+  }
+#gone-2{
+  display: none !important;
+}
+#gone-3{
+  display: none !important;
+}
+.best-movies{
+  position: relative;
+  height: 360px !important;
+}
+.section-title{
+  position: absolute;
+}
+.page-main{
+  width: 100% !important;
+}
+.mother{
+  display: block  !important;
+
+}
+.archive{
+  width: 100% !important;
+}
+.aside{
+  width: 100% !important;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.page-content{
+width: 90% !important;
+}
+.all-pic{
+  position: absolute;
+  top: 40px;
+  width: 100%;
+}
+.all-pic .poster{
+  width: 195px;
+}
+.footer-widget{
+  width: 90%;
+}
+.aside{
+  padding-left: 70px;
+  padding-right: 70px;
+}
+.search-in-site{
+  margin-left: 0 !important;
+}
+.container{
+  width: 95%;
+}
+.footer-container{
+  width: 95%;
+  display: block;
+}
+.footer-text , .client-mail{
+  width: 100%;
+}
+.client-mail{
+  margin-bottom: 10px;
+}
+.footer-widget{
+  width: 95%;
+  
+}
+.row-la{
+  display: block;
+}
+.c-r , .c-l{
+  width: 100%;
+}
+.f-logo img{
+
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+
+.row-1{
+  display: block;
+}
+.m-poster{
+  display: block;
+  
+}
+.r-poster{
+  margin-left: auto;
+  margin-right: auto;
+}
+.r-poster .poster{
+  width: 195px;
+}
+.l-poster{
+  width: 100%;
+height: 50px;
+
+}
+.f-poster{
+  height: 50px;
+}
+#first-l-poster{
+  height: 250px;
+}
+.menu-1{
+  margin-bottom: 0;
+}
+.search-in-site{
+  width: 90%;
+}
+.logo{
+  margin-top: 0;
+}
+.search-input{
+  margin-top: 5px;
+}
+.header-first-ul{
+  margin-top:15px;
+}
+.menu-1{
+  margin-left: 0;
+}
+.page-main{
+  margin-top: 70px;
+}
+.mob-fix-menu{
+  display:  block !important;
+  position:fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  box-shadow: 0 -5px 15px 0 rgb(0 0 0 / 9%);
+  z-index: 100;
+}
+.mob-fix-menu ul{
+  display: flex;
+  list-style: none;
+  background:white;
+
+  
+}
+.mob-fix-menu ul li{
+width: 25%;
+height: 55px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.mob-fix-menu a{
+color: #333;
+text-decoration: none;
+}
+.c-l{
+  margin-bottom: 60px;
+}
+.mob-fix-menu li:hover{
+  background-color: rgb(171, 60, 82);
+ 
+}
+.mob-fix-menu li:hover a{
+  color: white;
+}
+.row-1{
+  display: block !important;
+
+}
+.r-poster{
+  width: 195px;
+}
+.poster{
+  width: 100%;
+}
+.row-1 .btns{
+margin-left: auto;
+margin-right: auto;
+margin-top: 15px;
+width: max-content;
+
+}
+.mob-fix-menu ul li i{
+  margin-top:10px ;
+
+}
+.poster{
+  margin: 0;
+}
+
+.main-title{
+  padding: 5px;
+}
+.archive-buttons , .archive-title{
+  margin-bottom: 0;
+}
+.all-pic .poster{
+  margin-left: 10px;
+  margin-right: 10px
+}
+.page-number ul{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.mask-1{
+  height: 98%;
+}
+.all-pic{
+  margin-top: 15px;
+}

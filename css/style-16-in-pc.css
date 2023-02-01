@@ -1,0 +1,42 @@
+.mother{
+    display: block  !important;
+  
+  }
+  .archive{
+    width: 100% !important;
+  }
+  .aside{
+    width: 100% !important;
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+  .page-content{
+    width: 80%;
+  }
+  .r-poster .poster{
+    width: 190px;
+  }
+  .aside{
+    padding-left: 130px;
+    padding-right: 130px;
+  }
+  .r-poster{
+    width: 28%;
+  }
+  .l-poster{
+    width: 72%;
+  }
+.main-title{
+  padding: 5px;
+}
+.page-header-menu{
+  width: 80%;
+}
+.btn-dnl{
+  bottom: -10px;
+}
+.page-number ul{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

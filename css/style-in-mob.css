@@ -1,0 +1,30 @@
+.all-pic .poster{
+    width: 160px !important;
+  }
+  .best-movies {
+    height: 310px;
+}
+.row-1 h2 a{
+    font-size: 15px;
+}
+.archive .poster{
+  width: 100%;
+}
+.season-1-gen ul li a{
+font-size: 12px;
+}
+.season-1-actors ul li{
+  font-size: 12px;
+}
+
+.page-number ul{
+  width: 90%;
+  margin-right:auto ;
+  margin-left: auto;
+}
+ .page-number li{
+  margin-right: 10px;
+ }
+#first-l-poster{
+  height: 290px;
+}

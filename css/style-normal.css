@@ -1,0 +1,67 @@
+.menu-1 {
+  display: inline;
+  margin-top: 0;
+}
+.page-content{
+  width: 90%;
+}
+.search-in-site {
+  margin-left: 5px;
+  margin-right: 5px;
+  order: 3;
+}
+.header-first-ul li {
+  display: inline-block;
+  padding-right: 30px;
+  padding-left: 30px;
+  cursor: pointer;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 22px;
+}
+.none-in-tab span {
+  display: none;
+}
+#gone-1{
+display: none !important;
+}
+.mother{
+  display: block  !important;
+}
+.archive{
+  width: 100% !important;
+}
+.aside{
+  width: 100% !important;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.footer-text{
+  width: 45%;
+}
+.client-mail{
+  width: 55%;
+}
+.r-poster{
+  width: 25%;
+}
+.l-poster{
+  width: 75%;
+}
+.r-poster .poster{
+  width: 185px;
+}
+.mob-fix-menu{
+  display: none !important;
+}
+.main-title{
+  padding: 5px;
+}
+.btn-dnl{
+  bottom: -5px;
+}
+.page-number ul{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
